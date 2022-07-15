@@ -8,4 +8,6 @@ Hints
 ·         Azure Documentation (https://docs.microsoft.com/en-us/azure/?product=featured)
 ·         Google Documentation (https://cloud.google.com/docs)
 
+# Approach followed by me
+Cloud Provider Used - Azure 
 
