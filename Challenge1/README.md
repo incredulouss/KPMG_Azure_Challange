@@ -10,6 +10,7 @@ Hints
 
 # Approach followed by me
 Cloud Provider Used - Microsoft Azure
+
 Script - Powershell 
 
 I am using Azure Instance Metadata Service (IMDS). It a REST API that's available at a well-known, non-routable IP address (169.254.169.254).
