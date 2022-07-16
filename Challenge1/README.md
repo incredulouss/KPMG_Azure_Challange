@@ -20,4 +20,5 @@ Following resources have been implemeneted
 # dependencies
 
 1. We need to install terraform 
-2. Azure CLI , For autentication to the Azure  
+2. Active Azure Subscription
+3. Azure CLI , For autentication to the Azure  
