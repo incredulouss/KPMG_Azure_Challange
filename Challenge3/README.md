@@ -9,8 +9,15 @@ object = {“a”:{“b”:{“c”:”d”}}}
 key = a/c/c
 
 object = {“x”:{“y”:{“z”:”a”}}}
+
 key = x/y/z
+
 value = a
+
+
+# Approach
+
+I have used Javascript programming language to write the logic for this problem. Used reduce function of javascript.
 
 
 
