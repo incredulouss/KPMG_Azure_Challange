@@ -17,4 +17,7 @@ Following resources have been implemeneted
 
 ![image](https://user-images.githubusercontent.com/31053231/179350782-337cb878-3042-437a-b4b4-db889fb9528d.png)
 
+# dependencies
 
+1. We need to install terraform 
+2. Azure CLI , For autentication to the Azure  
